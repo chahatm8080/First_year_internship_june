@@ -1,0 +1,24 @@
+/* style.css */
+
+/* Center the body content */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Center the main container */
+.container {
+  text-align: center;
+}
+
+/* Center the heading */
+.container h1 {
+  margin-top: 0;
+}
+
+/* Center the paragraph */
+.container p {
+  margin-bottom: 0;
+}

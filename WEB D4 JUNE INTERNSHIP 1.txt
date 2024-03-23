@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="#EDC9AF">
+<head>
+<title>TCET Mumbai</title> <body>
+<img src="C:\Users\Chahat Mishra\OneDrive\Documents\JUNE INTERSHIP SECOND YEAR\TCET.jpg" style = "display: block; margin: 0 auto;">
+</head>
+<h1 align = Center>Welcome to Thakur College of Engineering & Technology</h1>
+</body>
+<hr>
+<ul type="disk">
+<li>UG Courses:</li>
+<li>B.E. Mechanical Engineering</li>
+<li>B.E. Civil Engineering</li>
+<li>B.E. Computer Engineering</li>
+<li>B.E. Information Technology</li>
+<li>B.E. Electronics and Telecommunication Engineering</li>	
+<li>B.E. Electronics and Computer Science</li>
+<li>B.Tech Artificial Intelligence and Data Science</li>
+<li>B.Tech Internet of Things</li>	
+<li>B.Tech Artificial Intelligence and Machine Learning</li>
+<li>B.E. Computer Science and Engineering (Cyber Security)</li>	
+<li>B.E. Mechanical and Mechatronics Engineering (Additive Manufacturing)</li>
+</ol>
+
+<a href="form.html">Admissions Open!!! Click now!</a> 
+
+<table width=100% border="1" bgcolor="orange"> 
+<tr>
+<th colspan=3>Centre of Excellence</th>
+</tr>
+<tr>
+<td>Thakur-Accenture Innovation Center</td>
+<td>Thakur-TATA Technologies Center of Excellence</td>
+<td>Thakur-TATA Technologies Center of Excellence</td>
+</tr>
+<tr>
+<td>TCET-TEXAS Instruments Laboratory</td>
+<td>TCET-Embedded System Lab</td>
+<td>TCET-INTEL Center of Excellence</td>
+</tr>
+</table>
+
+<hr>
+<H1><FONT COLOR="Black"><CENTER>COLLEGE TIME TABLE</FONT></H1>
+<table border="2" cellspacing="3" align="center">
+<tr>
+ <td align="center">
+ <td>8:30-9:30
+ <td>9:30-10:30
+ <td>10:30-11:30
+ <td>11:30-12:30
+ <td>12:30-2:00
+ <td>2:00-3:00
+ <td>3:00-4:00
+ <td>4:00-5:00
+</tr>
+<tr>
+ <td align="center">MONDAY
+ <td align="center">MATHS<td align="center"><font color="blue">Break<br>
+ <td align="center"><font color="green">MCO<br>
+ <td align="center"><font color="red">OS<br>
+ <td rowspan="6"align="center">L<br>U<br>N<br>C<br>H
+ <td align="center"><font color="maroon">ADIC<br>
+ <td align="center"><font color="brown"<br>
+ <td align="center">----
+</tr>
+<tr>
+ <td align="center">TUESDAY
+ <td align="center"><font color="blue">DSA Lab<br>
+ <td align="center"><font color="red">Break<br>
+ <td align="center"><font color="maroon">java<br>
+ <td align="center">---
+ <td align="center"><font color="black">css<BR>
+ <td align="center"><font color="maroon">ABL<br>
+ <td align="center">----
+</tr>
+<tr>
+ <td align="center">WEDNESDAY
+ <td align="center"><font color="green">pbl<br>
+ <td align="center"><font color="teal">Ps<BR>
+ <td align="center"><font color="brown">free<br>
+ <td align="center">---
+ <td colspan="3" align="center"><font color="green"> Lab
+</tr>
+<tr>
+ <td align="center">THURSDAY
+ <td align="center">DBMS Lab<br>
+ <td align="center"><font color="brown">free<br>
+ <td align="center"><font color="black">free<BR>
+ <td align="center">---
+ <td align="center"><font color="blue">free<br>
+ <td align="center"><font color="red">free<br>
+ <td align="center">Library
+</tr>
+<tr>
+ <td align="center">FRIDAY
+ <td align="center"><font color="black">free Lab<BR>
+ <td align="center"><font color="maroon">MATHS TUTORIAL<br>
+ <td align="center"><font color="blue">MATHS<br>
+ <td align="center">---
+ <td align="center"><font color="teal">Doubt session<br>
+ <td align="center"><font color="brown">----<br>
+ <td align="center">Library
+</tr>
+<tr>
+ <td align="center">SATURDAY
+ <td align="center"><font color="red">Quiz<br>
+ <td colspan="3" align="center">Seminar
+ <td align="center"><font color="olive">Doubt session<br>
+ <td align="center"><font color="brown">----<br>
+ <td align="center">Library
+</tr>
+</table>
+</br>
+<hr>
+<p><b>Location: A-Block, Thakur Educational Campus, Shyamnarayan Thakur Marg, Thakur Village, 
+Kandivali East, Mumbai, Maharashtra 400101</b.></p>
+<p><em>Tel: 022 - 28461891 / 022 - 67308000, 67308106 / 07</em></p>
+<p><em>Fax: 022 - 28461890</em></p>
+<p><em>E-Mail:  tcet@thakureducation.org</em></p>
+
+<a href="https://goo.gl/maps/xm1o4dwmmDz3bMS49">Click Here for Google Maps</a>
+</br>
+<a href="form.html">Admissions Open!!! Click now!</a>
+
+</body>
+</html>
